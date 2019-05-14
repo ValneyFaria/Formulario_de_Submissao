@@ -1,5 +1,7 @@
 # Instalar
 ```
+apt install nodejs
+apt install npm
 npm i
 mkdir pdf
 ```
