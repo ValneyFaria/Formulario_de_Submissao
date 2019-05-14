@@ -1,1 +1,10 @@
-# Formulario_de_Submissao
+# Instalar
+```
+npm i
+mkdir pdf
+```
+
+# Executar
+```
+node generate.js <arquivo.csv>
+```

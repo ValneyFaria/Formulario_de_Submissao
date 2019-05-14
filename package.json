@@ -1,0 +1,23 @@
+{
+  "name": "ufsj-para-todos-pdf-gen",
+  "version": "1.0.0",
+  "description": "Gerador de PDFs para a página do UFSJ Para Todos",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/ygorthemoster/ufsj-para-todos-pdfgen.git"
+  },
+  "author": "Ygor de Paula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ygorthemoster/ufsj-para-todos-pdfgen/issues"
+  },
+  "homepage": "https://gitlab.com/ygorthemoster/ufsj-para-todos-pdfgen#readme",
+  "dependencies": {
+    "csv-parser": "^2.2.0",
+    "pdfkit": "^0.9.1"
+  }
+}
